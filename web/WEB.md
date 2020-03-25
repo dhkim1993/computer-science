@@ -20,7 +20,7 @@
 - Jackson
 	- jackson은 자바진영 json 라이브러리로 잘 알려져 있지만 json 뿐만 아니라 XML, YAML, CSV 등 다양한 형식의 데이타를 지원하는 data-processing 툴이다.
 
-- 스트림 방식이므로 속도가 빠르며 유연하며 다양한 third party 데이터 타입을 지원하며 <br>annotation 방식으로 메타 데이타를 기술할 수 있으므로 <br>JSON 의 약점중 하나인 문서화와 데이타 validation 문제를 해결할 수 있다.
+	- 스트림 방식이므로 속도가 빠르며 유연하며 다양한 third party 데이터 타입을 지원하며 <br>annotation 방식으로 메타 데이타를 기술할 수 있으므로 <br>JSON 의 약점중 하나인 문서화와 데이타 validation 문제를 해결할 수 있다.
 
 
 
