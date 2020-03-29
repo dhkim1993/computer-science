@@ -6,11 +6,11 @@
 
 
 ## Annotation
-- [@EnableJpaAuditing](#@EnableJpaAuditing)
-- [@Where](#where(clause-=-“deleted-=0”))
+- [@EnableJpaAuditing](#@enableJpaAuditing)
+- [@Where](#@where(clause-=-“deleted-=0”))
 - [@DiscriminatorColumn](#@discriminatorcolumn)
 - [@Inheritance](#@inheritance)
-- [@MappdedSupperclass](#@MappdedSupperclass)
+- [@MappdedSupperclass](#@mappdedsupperclass)
 
 <hr>
 
