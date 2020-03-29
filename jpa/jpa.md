@@ -13,14 +13,18 @@
 - [@MappdedSupperclass](#@MappdedSupperclass)
 
 <hr>
+
 ### JPA
+
 - ORM 전문가가 참여한 EJB 3.0 스펙 작업에서 기존 EJB ORM 이던 Entity Bean 을 <br>JPA 라고 바꾸고 JavaSE, JavaEE 를 위한 영속성(persistence) 관리와 ORM 을 위한 표준 기술입니다. <br>JPA 는 ORM 표준 기술로 Hibernate, OpenJPA, EclipseLink, TopLink Essentials 과 같은 <br>구현체가 있고 이에 표준 인터페이스가 바로 JPA 입니다.
 
 ### ORM
+
 - RDB 테이블을 객체지향적으로 사용하기 위한 기술입니다. <br>RDB 은 객체지향적 (상속, 다형성, 레퍼런스, 오브젝트 등)으로 접근하기 쉽지 않습니다.<br>
 때문에 ORM 을 사용해 오브젝트와 RDB 사이에 객체지향적으로 다루기 위한 기술입니다.
 
 ### Hibernate
+
 - Boss 에서 개발한 ORM(Object Relational Mapping) 프레임워크 입니다.
 	- 장점
 Hibernate 는 특정 클래스에 매핑되어야 하는 데이터베이스의 테이블에 대한 관계 정의가 되어 있는 XML 파일의 메타데이터로 객체관계 매핑을 간단하게 수행시킵니다.
